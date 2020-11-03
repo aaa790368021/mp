@@ -96,6 +96,10 @@ public class DemoApplicationTests{
         int i = this.userMapper.deleteById(1L);
         System.out.println(i);
 
+
+
+
+
     }
 
 
